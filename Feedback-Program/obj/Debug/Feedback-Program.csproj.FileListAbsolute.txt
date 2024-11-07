@@ -1,0 +1,10 @@
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\bin\Debug\Feedback-Program.exe.config
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\bin\Debug\Feedback-Program.exe
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\bin\Debug\Feedback-Program.pdb
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\obj\Debug\Feedback-Program.csproj.AssemblyReference.cache
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\obj\Debug\Feedback_Program.Form1.resources
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\obj\Debug\Feedback_Program.Properties.Resources.resources
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\obj\Debug\Feedback-Program.csproj.GenerateResource.cache
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\obj\Debug\Feedback-Program.csproj.CoreCompileInputs.cache
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\obj\Debug\Feedback-Program.exe
+C:\Users\moder\OneDrive\Documents\School work\Hull uni\Year 3\Design Develop Deploy (DDD)\course work 1\Feedback-Program\Feedback-Program\obj\Debug\Feedback-Program.pdb

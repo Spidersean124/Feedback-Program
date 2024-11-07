@@ -1,0 +1,36 @@
+public partial class Form1 : Form
+{
+    public Form1()
+    {
+        InitializeComponent();
+    }
+
+    private void button1_Click(object sender, EventArgs e)
+    {
+        string userInput = textBox2.Text;
+        using (StreamWriter sw = new StreamWriter($"{userInput}.txt"))
+        {
+            sw.WriteLine("Your text here");
+        }
+    }
+
+    private void button2_Click(object sender, EventArgs e)
+    {
+        // Define the directory path here within the method to avoid conflict
+        string directoryPath = @"C:\Users"; // Update this to your target directory
+
+        try
+        {
+            string[] files = Directory.GetFiles(directoryPath, "*.txt");
+            // Process files array as needed
+        }
+        catch (DirectoryNotFoundException)
+        {
+            MessageBox.Show("Directory not found.");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show($"An error occurred: {ex.Message}");
+        }
+    }
+}
